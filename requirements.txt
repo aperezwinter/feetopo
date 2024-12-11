@@ -1,0 +1,5 @@
+pyXSteam==0.4.9
+numpy
+matplotlib
+scipy
+gmsh
